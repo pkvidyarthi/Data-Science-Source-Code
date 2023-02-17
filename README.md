@@ -60,27 +60,27 @@
 
 7. CART : Ensemble Learning/Technique
 
-*    i. _Random Forest_
+*_Random Forest_
 
-*    ii. _Bagging_
+*_Bagging_ 
 
-*    iii. _ADA Boost_
+*_ADA Boost_
 
-*    iv. _Gradient Boosting_
+*_Gradient Boosting_
 
-*    v. _XGBoost_
+*_XGBoost_
 
-*    vi. _Light Gradient Boosting Machine (Light GBM)_
+*_Light Gradient Boosting Machine (Light GBM)_
 
-*    vii. _CatBoost_
+*_CatBoost_
 
-### **_Unsupervised Learning_**
+### **_vised Learning_**
 
 8. K-Means Clustering
 
-*    i. _Elbow Method_
+*_Elbow Method_
 
-*    ii. _Silhouette Method_
+*_Silhouette Method_
 
 9. Principal Component Analysis (PCA)
 
