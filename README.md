@@ -3,44 +3,44 @@
 
 ## **_Python For Data Science_**
 
-1.Python Basics
+1. Python Basics
 
-2.Python Lists 
+2. Python Lists 
 
-3.List Comperihension
+3. List Comperihension
 
-4.Dictionary 
+4. Dictionary 
 
-5.Sets and Tuples
+5. Sets and Tuples
 
-6.Python Functions
+6. Python Functions
 
-7.Classes and Objects
+7. Classes and Objects
 
-8.Inheritance
+8. Inheritance
 
-9.Multiple Inheritance
+9. Multiple Inheritance
 
-10.Multilevel Inheritance
+10. Multilevel Inheritance
 
 
 ### **_Python Libraries For Data Analysis_**
 
-11.Numpy
+11. Numpy
 
-12.Pandas
+12. Pandas
 
 
 
 ### **_Data Visualization Using Matplotlib and Seaborn_**
 
-13.Matplotlib and Seaborn
+13. Matplotlib and Seaborn
 
 
 
 ### **_Data Handling Using Pandas_**
 
-14.Data Handling 
+14. Data Handling 
 
 ## **Machine Learning**
 
