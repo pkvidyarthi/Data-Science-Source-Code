@@ -74,7 +74,7 @@
 
 *   _CatBoost_
 
-### **_vised Learning_**
+### **_Unsupervised Learning_**
 
 8. K-Means Clustering
 
