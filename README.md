@@ -91,3 +91,11 @@
 ## **Excel Datasets**
 
 #### **_All Datasets used in Machine Learning as 'Dataset CSV.rar'_**
+
+## **_Tableau For Data Science_**
+
+1. Basic Concept of Tableau
+
+2. Basic Number Functions
+
+3. String Functions
