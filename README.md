@@ -89,7 +89,7 @@
 11. Project : Loan Defaulter
 
 
-## **_Tableau For Data Science_**
+## **Tableau For Data Science**
 
 1. Basic Concept of Tableau
 
